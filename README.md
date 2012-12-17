@@ -1,6 +1,9 @@
-C ve network programlamaya(pcap) giris projesi
+README
+======
+
+C ve network programlamaya (**pcap**) giris projesi
 
 by
 
-Resit Sahin
-Selcuk Miynat
+Resit Sahin [resitsahin@gmail.com](resitsahin@gmail.com)  
+Selcuk Miynat [selcukmiynat@gmail.com](selcukmiynat@gmail.com)
