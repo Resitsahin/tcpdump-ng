@@ -1,7 +1,7 @@
 README
 ======
 
-C ve network programlamaya (*pcap*) giris projesi
+C ve network programlamaya ( **pcap** ) giris projesi
 
 by
 
